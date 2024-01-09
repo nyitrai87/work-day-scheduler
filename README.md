@@ -7,9 +7,9 @@ This project is a work day sceduler application. It represents a business work d
 It's an easy-to-use application. Just click on the wide colourised area in any timeblock and type in your plans. Then click to the save button and it will be saved to the local storage.
 
 ## Screenshots
-![Empty scheduler](./assets/images/welcome.png)
+![Empty scheduler](./assets/images/screenshot1.png)
 
-![Some examples added](./assets/images/playing.png)
+![Some examples added](./assets/images/screenshot2.png)
 
 ## Links
 [Link to the deployed application](https://nyitrai87.github.io/work-day-scheduler/)
